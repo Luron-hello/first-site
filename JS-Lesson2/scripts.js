@@ -67,7 +67,7 @@ if (mark < 5) {
         console.log( "Двоечник, иди учись!")
 }else if (mark > 4 && mark < 9){
         console.log("Неплохо, но давай еще поднажмем!")
-}else {(mark > 8)
+}else if {(mark > 8)
         console.log("Ого, да ты настоящий отличник!")
 }
 
